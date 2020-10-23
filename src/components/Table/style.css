@@ -1,4 +1,4 @@
-#employees {
+#table {
     text-align: center;
     margin: auto;
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
@@ -7,16 +7,16 @@
     width: 80%;
 }
 
-#employees td, #employees th {
+#table td, #table th {
     border: 1px solid #ddd;
     padding: 8px;
 }
 
-#employees tr:nth-child(even){background-color: #f2f2f2;}
+#table tr:nth-child(even){background-color: #f2f2f2;}
 
-#employees tr:hover {background-color: #ddd;}
+#table tr:hover {background-color: #ddd;}
 
-#employees th {
+#table th {
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: center;
