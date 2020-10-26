@@ -1,4 +1,13 @@
+.jumbotron {
+    background-color: rgb(64, 224, 139);
+}
+
 .App-title {
     text-align: center;
     font-weight: 600;
+}
+
+.header-text {
+    text-align: center;
+    font-size: 25px;
 }

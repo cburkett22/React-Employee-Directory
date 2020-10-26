@@ -5,11 +5,9 @@ import "./style.css";
 class Table extends Component {
  render() {
     return (
-      <div>
-        <table id='table'>
-          <TableData />
-        </table>
-      </div>
+      <table id='table'>
+        <TableData />
+      </table>
     )
   }
 }
