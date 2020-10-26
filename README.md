@@ -2,7 +2,7 @@
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/cburkett22/React-Employee-Directory)]()
 
-[Deployed Application]()
+[Deployed Application](https://cburkett22.github.io/React-Employee-Directory/)
 
 ![Application Screenshot](./public/screenshot.png)
 
